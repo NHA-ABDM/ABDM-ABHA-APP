@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  exclude:
+    - example/**
+    - build/**
+  errors:
+    unused_import: warning
+    unused_local_variable: warning
+    public_member_api_docs: warning
+    undefined_prefixed_name: ignore
+linter:
+  rules:
+    public_member_api_docs: true

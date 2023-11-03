@@ -1,0 +1,37 @@
+class IntentConstant {
+  static const String appBar = 'isAppBar';
+  static const String abhaAddress = 'abhaAddress';
+  static const String approveId = 'approveId';
+  static const String authorizationRequestId = 'authorizationRequestId';
+  static const String body = 'body';
+  static const String callback = 'callback';
+  static const String counterId = 'counterId';
+  static const String controller = 'controller';
+  static const String data = 'data';
+  static const String fromScreen = 'fromScreen';
+  static const String fromLoginWithMobileScreen = 'fromLoginWithMobileScreen';
+  static const String fromLoginWithAbhaAddressScreen = 'fromLoginWithAbhaAddressScreen';
+  static const String fromLoginWithAbhaNumberScreen = 'fromLoginWithAbhaNumberScreen';
+  static const String fromLoginWithEmailScreen = 'fromLoginWithEmailScreen';
+  static const String hipId = 'hipId';
+  static const String lockerId = 'lockerId';
+  static const String lockerName = 'lockerName';
+  static const String healthDataSection = 'healthDataSection';
+  static const String healthEntryPosition = 'healthEntryPosition';
+  static const String mappedPhrAddress = 'mappedPhrAddress';
+  static const String healthBundleSection = 'healthBundleSection';
+  static const String healthBundleDate = 'healthBundleDate';
+  static const String mobileEmail = 'mobileEmail';
+  static const String navigateFrom = 'navigateFrom';
+  static const String navigateTo = 'navigateTo';
+  static const String object = 'object';
+  static const String requestId = 'requestId';
+  static const String sourceType = 'sourceType';
+  static const String sentToString = 'sentToString';
+  static const String sessionId = 'sessionId';
+  static const String subscriptionID = 'subscriptionID';
+  static const String title = 'title';
+  static const String tempTokenAuth = 'tempTokenAuth';
+  static const String url = 'url';
+  static const String uhiId = 'uhiId';
+}

@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.ltimindtree.rd_service_flutter">
+    <queries>
+        <intent>
+            <action android:name="in.gov.uidai.rdservice.face.CAPTURE" />
+        </intent>
+    </queries>
+</manifest>

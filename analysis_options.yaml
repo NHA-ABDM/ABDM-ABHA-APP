@@ -1,0 +1,56 @@
+# This file configures the analyzer, which statically analyzes Dart code to
+# check for errors, warnings, and lints.
+#
+# The issues identified by the analyzer are surfaced in the UI of Dart-enabled
+# IDEs (https://dart.dev/tools#ides-and-editors). The analyzer can also be
+# invoked from the command line by running `flutter analyze`.
+
+# The following line activates a set of recommended lints for Flutter apps,
+# packages, and plugins designed to encourage good coding practices.
+include: package:flutter_lints/flutter.yaml
+# include: package:lint/analysis_options.yaml
+
+linter:
+  # The lint rules applied to this project can be customized in the
+  # section below to disable rules from the `package:flutter_lints/flutter.yaml`
+  # included above or to enable additional rules. A list of all available lints
+  # and their documentation is published at
+  # https://dart-lang.github.io/linter/lints/index.html.
+  #
+  # Instead of disabling a lint rule for the entire project in the
+  # section below, it can also be suppressed for a single line of code
+  # or a specific dart file by using the `// ignore: name_of_lint` and
+  # `// ignore_for_file: name_of_lint` syntax on the line or in the file
+  # producing the lint.
+  rules:
+    # avoid_print: false  # Uncomment to disable the `avoid_print` rule
+    prefer_single_quotes: true # Uncomment to enable the `prefer_single_quotes` rule
+#    require_trailing_commas: true
+    always_use_package_imports: true
+
+analyzer:
+  errors:
+#     todo: ignore
+    # prefer_final_locals: ignore
+    # avoid_dynamic_calls: ignore
+    # avoid_void_async: ignore
+    # unnecessary_statements: ignore
+    # argument_type_not_assignable: ignore
+    # return_of_invalid_type: ignore
+    # invalid_assignment: ignore
+    prefer_final_in_for_each: ignore
+    # avoid_multiple_declarations_per_line: ignore
+    # cast_nullable_to_non_nullable: ignore
+    avoid_classes_with_only_static_members: ignore
+    # avoid_positional_boolean_parameters: ignore
+    avoid_redundant_argument_values: ignore
+    always_declare_return_types: ignore
+    type_annotate_public_apis: ignore
+    join_return_with_assignment: ignore
+    avoid_bool_literals_in_conditional_expressions: ignore
+    unnecessary_string_escapes: ignore
+    # unused_local_variable: ignore
+    # unused_element: ignore
+    # unreachable_from_main: ignore
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options

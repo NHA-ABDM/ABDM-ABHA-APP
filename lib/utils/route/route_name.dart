@@ -1,0 +1,90 @@
+import 'package:abha/export_packages.dart';
+
+class RouteName {
+  static const String appIntro = 'intro';
+  static const String abhaCard = 'abha-card';
+  static const String abha = 'abha';
+  static const String aboutUs = 'about-us';
+  static const String support = 'support';
+  static const String abhaNumber = 'abha-number';
+  static const String abhaNumberOption = 'abha-number-option';
+  static const String abhaNumberMobile = 'abha-number-mobile';
+  static const String abhaNumberOtp = 'abha-number-otp';
+  static const String abhaNumberCard = 'abha-number-card';
+  static const String abhaNumberForget = 'abha-number-forget';
+  static const String abhaNumberForgetViaAadhaarMobile = 'abha-number-forget-via-aadhaar-mobile';
+  static const String abhaNumberForgetCardDetail = 'abha-number-forget-card-detail';
+  static const String abhaNumberForgetOtp = 'abha-number-forget-otp';
+  static const String account = 'account';
+  static const String consent = 'consent';
+  static const String consentDetails = 'details';
+  static const String consentMine = 'my-consent';
+  // static const String consentMineWeb = 'consentMineWeb';
+  static const String consentDetailsMine = 'my-consent-details';
+  static const String consentEdit = 'edit';
+  // static const String consentPin = 'consent-pin';
+  static const String consentArtefactsDetail = 'artefacts-detail';
+  // static const String consentPinCreateReset = 'consentPinCreateReset';
+  // static const String consentConfirmPin = 'consentConfirmPin';
+  // static const String consentPinCreateResetSuccess =
+  //     'consentPinSuccessfullyCreated';
+  // static const String consentValidateOtp = 'consentValidateOtp';
+  static const String contactUs = 'contact-us';
+  static const String dashboard = 'dashboard';
+  static const String discoveryLinking = 'discovery-linking';
+  static const String discoverHip = 'discover-hip';
+  static const String healthLocker = 'health-locker';
+  static const String healthLockerInfo = 'info';
+  static const String healthLockerInfoSubItem = 'info-sub-item';
+  static const String healthLockerAutoAccess = 'auto-access';
+  static const String healthLockerAuthorizationRequest =
+      'authorization-request';
+  static const String healthLockerEditSubscription =
+      'edit-subscription';
+  static const String healthRecordDetail = 'health-record-detail';
+  static const String healthRecordSearch = 'health-record-search';
+  static const String localization = 'localization';
+  static const String linkingHip = 'linking-hip';
+  static const String linkFacility = 'link-facility';
+  static const String login = 'login';
+  static const String linkingOtpHip = 'linking-otp-hip';
+  static const String loginMobile = 'mobile';
+  static const String loginAbhaAddress = 'abha-address';
+  static const String loginEmail = 'email';
+  static const String loginAbhaNumber = 'abha-number';
+  static const String loginOtp = 'otp';
+  static const String loginConfirm = 'confirm';
+  static const String linkAbhaNumber = 'link-abha-number';
+  static const String unlinkAbhaNumber = 'unlink-abha-number';
+  static const String unlinkAbhaNumberValidator = 'unlink-abha-number-validator';
+  static const String linkUnlinkOtpView = 'link-unlink-otp-view';
+  static const String linkUnlinkConfirmView = 'link-unlink-confirm-view';
+  static const String notification = 'notification';
+  static const String dashboardTokenHistory = 'dashboard-token-history';
+  static const String permissionApproval = 'permission-approval';
+  static const String profileView = 'profile-view';
+  static const String qrCodeScanner = 'qr-code-scanner';
+  static const String registrationEmail = 'email';
+  static const String registrationMobile = 'mobile';
+  static const String registrationAbha = 'abha';
+  static const String registrationOtp = 'otp';
+  static const String registrationAbhaConfirm = 'abha-confirm';
+  static const String registrationForm = 'form';
+  static const String registrationAbhaAddress = 'abha-address';
+  static const String splash = 'splash';
+  static const String shareProfile = 'share-profile';
+  static const String shareProfileWeb = StringConstants.shareProfile;
+  static const String settingsResetPassword = 'reset-password';
+  static const String settingsResetPasswordResult =
+      'reset-password-result';
+  // static const String profileUpdateEmail = 'profileUpdateEmail';
+  // static const String profileUpdateMobile = 'profileUpdateMobile';
+  static const String profileEdit = 'edit';
+  static const String switchAccount = 'switchAccount';
+  // static const String profileValidateOtp = 'profileValidateOtp';
+  static const String registration = 'registration';
+  static const String submitFeedback = 'submitFeedback';
+  static const String uhi = 'uhi';
+  static const String webView = 'webView';
+
+}

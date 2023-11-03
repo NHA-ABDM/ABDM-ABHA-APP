@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="icon-abha-card" transform="translate(12284 22998)">
+    <rect id="Rectangle_144579" data-name="Rectangle 144579" width="18" height="18" transform="translate(-12284 -22998)" fill="none"/>
+    <g id="Group_71108" data-name="Group 71108" transform="translate(-12282.594 -22996.313)">
+      <path id="Path_29114" data-name="Path 29114" d="M15.777,3.165H5.261A2.267,2.267,0,0,0,3,5.42V15.735A2.267,2.267,0,0,0,5.261,17.99H15.777a2.257,2.257,0,0,0,2.255-2.255V5.42A2.257,2.257,0,0,0,15.777,3.165Zm-8.5,1.716a.69.69,0,0,1,.683.689.686.686,0,0,1-1.372,0A.7.7,0,0,1,7.278,4.881Zm-2.3,0a.684.684,0,0,1,.676.689.683.683,0,0,1-1.365,0A.691.691,0,0,1,4.973,4.881ZM16.666,15.735a.887.887,0,0,1-.889.883H5.261a.9.9,0,0,1-.9-.883V7.643h12.3Z" transform="translate(-3 -3.165)" fill="#b9c6eb"/>
+      <g id="Rectangle_144593" data-name="Rectangle 144593" transform="translate(1.02 4)" fill="#d8dff3" stroke="#d8dff3" stroke-width="1">
+        <rect width="13.012" height="9.826" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="12.012" height="8.826" rx="0.5" fill="none"/>
+      </g>
+      <path id="Path_29115" data-name="Path 29115" d="M11.363,20.583H15.77a.814.814,0,0,0,.759-1.135,3.265,3.265,0,0,0-5.926,0A.812.812,0,0,0,11.363,20.583Z" transform="translate(-6.05 -8.176)" fill="#264488"/>
+      <path id="Path_29116" data-name="Path 29116" d="M15.605,15a1.493,1.493,0,1,0-1.489,1.488A1.491,1.491,0,0,0,15.605,15Z" transform="translate(-6.6 -7.668)" fill="#264488"/>
+      <rect id="Rectangle_144594" data-name="Rectangle 144594" width="12.574" height="1.801" transform="translate(0.979 1.512)" fill="#b9c6eb"/>
+    </g>
+  </g>
+</svg>
